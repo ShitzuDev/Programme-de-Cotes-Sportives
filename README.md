@@ -44,7 +44,7 @@ Une fois que tu as consulté les cotes, tu peux choisir de recommencer avec un a
 ---
 
 ## 📥 **Installation et Exécution** :  
-Télécharge et exécute le fichier `.py` pour démarrer. Assure-toi d’avoir une clé API valide pour accéder aux données des cotes et commence à consulter les meilleures cotes disponibles.
+Télécharge et exécute le fichier `.exe`.
 
 ---
 
